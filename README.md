@@ -1,1 +1,1 @@
-# Domino-s-sales
+# Domino-sales
